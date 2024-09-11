@@ -10,7 +10,6 @@ import Approach from "@/components/Approach";
 import Experience from "@/components/Experience";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
-// import Experience2 from "@/components/Experience2";
 
 const Home = () => {
   return (
