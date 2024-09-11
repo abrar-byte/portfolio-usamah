@@ -65,7 +65,7 @@ const Experience = () => {
                                 {card.company}
                               </p>
 
-                              <ul className="mt-5 list-disc space-y-2">
+                              <ul className="mt-5 pl-5 lg:pl-0 list-disc space-y-2">
                                 {card.points.map(
                                   (point: any, iPoint: number) => (
                                     <li
